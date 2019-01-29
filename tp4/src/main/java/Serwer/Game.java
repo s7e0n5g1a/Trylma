@@ -22,7 +22,6 @@ import static java.lang.Math.sqrt;
  */
 class Game {
     Player currentPlayer;
-
     private int numerRuchu = 1;
     int przyciskRuchuId = -1;
     int ostatnioKlikniety = -1;
@@ -170,6 +169,7 @@ class Game {
         }
         return true;
     }
+
 
     /**
      * Metoda legalMove sprawdza czy ruch może zostać wykonany
@@ -421,7 +421,6 @@ class Game {
                             }
                         }
                     }
-                    //
                     // Sprawdzanie komend
                     // Komenda z ruchem "MOVE nr_jednego_przycisku nr_durgiego_przycisku"
                     /*

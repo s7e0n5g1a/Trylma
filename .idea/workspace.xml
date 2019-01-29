@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71d3402-23f7-4c1d-bc5a-f5a1d11542d6" name="Default Changelist" comment="" />
+    <list default="true" id="f71d3402-23f7-4c1d-bc5a-f5a1d11542d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tp4/src/main/java/Klient/Klient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -38,13 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="168" column="45" lean-forward="true" selection-start-line="168" selection-start-column="45" selection-end-line="168" selection-end-column="45" />
+            <state relative-caret-position="-351">
+              <caret line="423" column="12" selection-start-line="423" selection-start-column="12" selection-end-line="423" selection-end-column="12" />
               <folding>
-                <element signature="e#13946#13947#0" expanded="true" />
+                <element signature="e#20065#20066#0" expanded="true" />
+                <element signature="e#20116#20117#0" expanded="true" />
+                <element signature="e#21253#21254#0" expanded="true" />
+                <element signature="e#21295#21296#0" expanded="true" />
+                <element signature="e#19160#19161#0" expanded="true" />
+                <element signature="e#19273#19274#0" expanded="true" />
+                <element signature="e#19367#19368#0" expanded="true" />
+                <element signature="e#19446#19447#0" expanded="true" />
                 <element signature="e#13229#13230#0" expanded="true" />
                 <element signature="e#13265#13266#0" expanded="true" />
               </folding>
@@ -78,8 +88,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tp4/src/main/java/Serwer/Gwiazda_serwera.java" />
-        <option value="$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java" />
         <option value="$PROJECT_DIR$/tp4/src/main/java/Serwer/LiczbaGraczy.java" />
+        <option value="$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java" />
       </list>
     </option>
   </component>
@@ -125,7 +135,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548762438419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548762770466" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -231,18 +241,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="168" column="45" lean-forward="true" selection-start-line="168" selection-start-column="45" selection-end-line="168" selection-end-column="45" />
-          <folding>
-            <element signature="e#13946#13947#0" expanded="true" />
-            <element signature="e#13229#13230#0" expanded="true" />
-            <element signature="e#13265#13266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tp4/src/main/java/Serwer/Serwer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -261,6 +259,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp4/src/main/java/Serwer/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="423" column="12" selection-start-line="423" selection-start-column="12" selection-end-line="423" selection-end-column="12" />
+          <folding>
+            <element signature="e#20065#20066#0" expanded="true" />
+            <element signature="e#20116#20117#0" expanded="true" />
+            <element signature="e#21253#21254#0" expanded="true" />
+            <element signature="e#21295#21296#0" expanded="true" />
+            <element signature="e#19160#19161#0" expanded="true" />
+            <element signature="e#19273#19274#0" expanded="true" />
+            <element signature="e#19367#19368#0" expanded="true" />
+            <element signature="e#19446#19447#0" expanded="true" />
+            <element signature="e#13229#13230#0" expanded="true" />
+            <element signature="e#13265#13266#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
